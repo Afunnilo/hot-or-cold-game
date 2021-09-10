@@ -9,7 +9,7 @@ body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
     height: 100vh;
-    width:100vh
+    
 }
 
 #container{
@@ -18,8 +18,7 @@ body {
     width:600px;
     text-align: center;
     border: 2px solid transparent;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
     border-radius: 10px;
     padding-top: 50px;
     
